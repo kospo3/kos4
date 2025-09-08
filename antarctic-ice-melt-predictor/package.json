@@ -1,0 +1,26 @@
+{
+  "name": "antarctic-ice-melt-predictor",
+  "version": "1.0.0",
+  "description": "An application to predict the melting rate of Antarctic ice.",
+  "main": "src/index.tsx",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "dependencies": {
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-scripts": "4.0.3",
+    "chart.js": "^3.6.0",
+    "react-chartjs-2": "^3.0.4"
+  },
+  "devDependencies": {
+    "typescript": "^4.4.3",
+    "@types/react": "^17.0.2",
+    "@types/react-dom": "^17.0.2"
+  },
+  "homepage": "https://github.com/yourusername/antarctic-ice-melt-predictor",
+  "license": "MIT"
+}
